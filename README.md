@@ -1,5 +1,5 @@
 # CRUX: Crypto to Real-World User Exchange. 
-**Created for OpenLedger Ideathon by Hasan Kamaal and Shreyash Srivastva**
+**Created for OpenLedger Ideathon by Hasan Kamal and Shreyash Srivastva**
 
 ## Inspiration
 
